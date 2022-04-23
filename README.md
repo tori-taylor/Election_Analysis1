@@ -6,7 +6,7 @@ Below is a high-level summary of that analysis completed
 
   
   * There were 369,711 votes cast in the election
-      * The code used to calculate total votes was as follows: ![Total Votes](Resources/Total Votes.PNG)
+      * The code used to calculate total votes was as follows after initializing the variable for Total Votes to zero: ![Total Votes](https://github.com/tori-taylor/Election_Analysis1/blob/main/Resources/Total%20Votes.PNG)
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
 Which county had the largest number of votes?
